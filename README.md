@@ -1,2 +1,2 @@
 # Charumathi
-Tester repository -- Welcome
+Tester repository
